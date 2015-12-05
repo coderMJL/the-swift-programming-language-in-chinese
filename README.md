@@ -1,3 +1,5 @@
+is it useful?
+
 《The Swift Programming Language》in Chinese
 =============================================
 
